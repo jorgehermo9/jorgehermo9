@@ -8,4 +8,5 @@
 - Java
 - Python
 - Javascript
+- Julia
 - OCaml
