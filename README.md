@@ -1,7 +1,6 @@
 
-# -> **Arch Linux**
 
-## Languages
+# Languages & tech
 
 - Rust
 - C
@@ -9,3 +8,4 @@
 - Python
 - Javascript
 - Julia
+- React
