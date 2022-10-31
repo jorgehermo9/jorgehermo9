@@ -7,5 +7,5 @@
 - Java
 - Python
 - Javascript
-- Julia
 - React
+- C++
